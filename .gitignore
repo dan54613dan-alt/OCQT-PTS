@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local data and outputs
+data/
+outputs/
+checkpoints/
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+*.log

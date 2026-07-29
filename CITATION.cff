@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Ordered-Cycle Query Transformer and Phenology-Constrained Time-Series Splicing"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Jingrou
+  - family-names: Lu
+    given-names: Tingting
+  - family-names: Xue
+    given-names: Beibei
+version: 0.1.0
+repository-code: "https://github.com/dan54613dan-alt/OCQT-PTS"
